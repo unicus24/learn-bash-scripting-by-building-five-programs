@@ -148,3 +148,4 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 clear
 touch countdown.sh
+chmod +x countdown.sh
