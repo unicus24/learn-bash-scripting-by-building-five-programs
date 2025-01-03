@@ -195,3 +195,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh arg1
 __vsc_prompt_cmd_original
 ./countdown.sh arg3
+./countdown.sh 4
