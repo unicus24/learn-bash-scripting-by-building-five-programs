@@ -126,3 +126,4 @@ echo hello bash
 touch questionnaire.sh
 shh questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
