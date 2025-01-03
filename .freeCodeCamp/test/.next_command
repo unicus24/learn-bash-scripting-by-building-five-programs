@@ -217,3 +217,4 @@ bad-command
 bad-command
 bad_command
 ls --color=auto
+ls --color=auto -y
