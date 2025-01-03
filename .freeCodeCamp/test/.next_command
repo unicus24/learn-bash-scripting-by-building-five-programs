@@ -216,3 +216,4 @@ echo $?
 bad-command
 bad-command
 bad_command
+ls --color=auto
