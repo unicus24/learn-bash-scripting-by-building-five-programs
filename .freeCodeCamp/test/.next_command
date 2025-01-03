@@ -128,3 +128,4 @@ shh questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+./questionnaire.sh
