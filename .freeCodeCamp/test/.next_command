@@ -284,3 +284,5 @@ help let
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+clear
+touch fortune.sh
