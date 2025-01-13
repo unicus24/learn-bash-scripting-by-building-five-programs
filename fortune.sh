@@ -10,4 +10,8 @@ GET_FORTUNE() {
   echo Ask a yes or no question:
   read QUESTION
 }
-GET_FORTUNE
+
+until [[ $QUESTION = test? ]]
+do
+  GET_FORTUNE
+done
