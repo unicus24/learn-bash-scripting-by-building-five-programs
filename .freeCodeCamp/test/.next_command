@@ -386,3 +386,5 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+clear
+touch five.sh
